@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login wrong username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5ee9847-0785-47a3-a440-c09b8ee0217e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69a74dc0-00e5-4d54-8ce1-0b2a20071d43</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>768d1862-4177-4a29-8cfd-eeb744c06b3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2321d1b1-cf1d-4afb-9b70-d4d246da6000</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com/'</defaultValue>
+      <description></description>
+      <id>69a74dc0-00e5-4d54-8ce1-0b2a20071d43</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user1'</defaultValue>
+      <description></description>
+      <id>768d1862-4177-4a29-8cfd-eeb744c06b3d</id>
+      <masked>false</masked>
+      <name>username_wrong</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>2321d1b1-cf1d-4afb-9b70-d4d246da6000</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

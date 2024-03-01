@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User success to add item to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1346d55d-a74f-4bb1-87ba-a5bf34141346</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd8f99a2-8be1-4023-87cd-b56da2f968b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com'</defaultValue>
+      <description></description>
+      <id>bd8f99a2-8be1-4023-87cd-b56da2f968b1</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>768d1862-4177-4a29-8cfd-eeb744c06b3d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>2321d1b1-cf1d-4afb-9b70-d4d246da6000</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
